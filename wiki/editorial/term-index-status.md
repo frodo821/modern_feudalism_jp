@@ -300,11 +300,10 @@ sources:
 |---|---|---|---|
 | 一世一元の制 | 検討案（設定全体が未確定） | [明治改元（1867年）](../events/meiji-era-proclamation-1867.md) | [^u020] |
 | 官制令 | 検討案（設定全体が未確定） | [弾正台と弾正尹](../institutions/danjodai.md) | [^u024] |
-| 旧格式廃止の詔 | 検討案（設定全体が未確定） | [法体系（詔・勅・例・式）と司法制度](../institutions/legal-system.md) | [^u032] |
 | 禁裏御料預地 | 検討案（設定全体が未確定） | [旧水戸領と禁裏御料預地](../regions/former-mito-domain.md) | [^u007] |
 | 軍部大臣現役武官制 | 本世界線に同種の制度があるかは未決 | [統帥権（本世界線）](../institutions/supreme-command.md) | [^u124] |
 | 暫定国制協約 | 検討案（設定全体が未確定） | [大日本帝国憲法（本世界線）](../institutions/imperial-constitution.md) | [^u034] |
-| 思想取締法 | 名称は仮称 | [1930年代の政治潮流（権威主義運動・思想取締・定足数改憲）](../politics/politics-1930s-currents.md) | [^p029][^p031] |
+| 思想取締立法 | 名称は仮称 | [1930年代の政治潮流（権威主義運動・思想取締・定足数改憲）](../politics/politics-1930s-currents.md) | [^p029][^p031] |
 | 新領主権設定（授封）の共同承認 | 検討案（設定全体が未確定） | [新領土の統治制度](../institutions/new-territory-governance.md) | [^u066] |
 | 台湾統治例 | 検討案（設定全体が未確定） | [台湾（帝国特別領）](../regions/taiwan.md) | [^u077] |
 | 男女制限選挙 | 年次は仮 | [衆議院選挙制度の変遷（制限選挙・記名投票から男女普通選挙へ）](../politics/election-system.md) | [^p009] |

@@ -271,7 +271,7 @@ sources:
 * [衆議院と民撰議院設立建白書](../institutions/house-of-representatives.md) - 衆議院の成立
 * [元老院の構成と互選制度（定数240・275・310）](../institutions/genroin-composition.md) - 記名互選の制度
 * [内閣制度と両院関係（首班指名・組閣拒否・不信任・勅令）](../institutions/cabinet-system.md) - 改選と内閣の関係
-* [1930年代の政治潮流（権威主義運動・思想取締・定足数改憲）](politics-1930s-currents.md) - 定足数改憲と思想取締法
+* [1930年代の政治潮流（権威主義運動・思想取締・定足数改憲）](politics-1930s-currents.md) - 定足数改憲と思想取締立法
 * [ダイス判定一覧（国内政治・華族制度・元老院）](../editorial/dice-rolls-politics.md) - 判定の全一覧
 
 [^n1]: 制度の細部は検討案。
